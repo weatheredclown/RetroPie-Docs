@@ -55,6 +55,7 @@ The simplest way to get most of these components is through an all-in-one kit su
 3. Download a program to write the RetroPie *.img.gz* image to your MicroSD card
    * For Windows: [Raspberry Pi Imager](https://www.raspberrypi.org/software/), [Etcher](https://www.balena.io/etcher/), or [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/)
      * Win32DiskImager requires an .img file extracted from the *.img.gz* image downloaded in step #2. You can use a program like [7zip](https://www.7-zip.org/download.html) to do this
+   * for ChromeOS: [Chromebook Recovery Utility](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/jndclpdbaamdhonoechobihbbiimdgai), after converting the image to a zip file
    * For macOS: [Raspberry Pi Imager](https://www.raspberrypi.org/software/), [Etcher](https://www.balena.io/etcher/), [Apple Pi Baker](https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/), or the `dd` command
    * For Linux: [Raspberry Pi Imager](https://www.raspberrypi.org/software/), [Etcher](https://www.balena.io/etcher/), or the `dd` command
     * MacOS/Linux users can optionally extract the .img image from the downloaded .img.gz by using `gunzip` (macOS users can also simply double-click it)
